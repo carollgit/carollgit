@@ -2,8 +2,8 @@
 - 👀 Estou interessada em trabalhar como desenvolvedora backend
 - 🌱 Estou aprendendo
 - 
-          
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
           
 
    Pela plataforma DIO e cursando Análise e desenvolvimento de sistemas
