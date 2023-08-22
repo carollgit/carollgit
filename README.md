@@ -2,7 +2,7 @@
 - 👀 Estou interessada em trabalhar como desenvolvedora backend
 - 🌱 Estou aprendendo
 - 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+            <imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
             
 - 📫 Como entrar em contato comigo
 - <div>
