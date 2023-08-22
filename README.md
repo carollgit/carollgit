@@ -1,14 +1,14 @@
-- 👋 Oi, me chamo Carol
-- 👀 I’m interested in ...
+- 👋 Oi, me chamo Carol Vasconcellos
+- 👀 Estou interessada em trabalhar como desenvolvedora backend
 - 🌱 Estou aprendendo 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img>'s `height` src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  Pela plataforma DIO e cursando Análise e desenvolvimento de sistemas
             
-- 💞️ I’m looking to collaborate on ...
 - 📫 Como entrar em contato comigo
 - <div>
 <a href="https://instagram.com/@cazz.z" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "vasconcellos.carol.n@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/carol-vasconcellos-a508a7195/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/https://carol-vasconcellos/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <!---
