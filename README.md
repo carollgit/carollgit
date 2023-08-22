@@ -3,10 +3,6 @@
 - 🌱 Estou aprendendo
 - 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-          
-          
-
-   Pela plataforma DIO e cursando Análise e desenvolvimento de sistemas
             
 - 📫 Como entrar em contato comigo
 - <div>
