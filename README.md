@@ -1,7 +1,7 @@
 - 👋 Oi, me chamo Carol Vasconcellos
 - 👀 Estou interessada em trabalhar como desenvolvedora backend
 - 🌱 Estou aprendendo 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+            'height' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           
 
 
