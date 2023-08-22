@@ -1,10 +1,12 @@
 - 👋 Oi, me chamo Carol Vasconcellos
 - 👀 Estou interessada em trabalhar como desenvolvedora backend
-- 🌱 Estou aprendendo 
-  
-            <i class="devicon-java-plain"></i>
+- 🌱 Estou aprendendo
+- 
           
-  Pela plataforma DIO e cursando Análise e desenvolvimento de sistemas
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
+
+   Pela plataforma DIO e cursando Análise e desenvolvimento de sistemas
             
 - 📫 Como entrar em contato comigo
 - <div>
